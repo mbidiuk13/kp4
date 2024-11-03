@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include "validation.h"
-#include "calc.h"
+#include "calculation.h"
 #define TO_RADIANS(degree) ((degree) * M_PI / 180.0)
 
 int main()
